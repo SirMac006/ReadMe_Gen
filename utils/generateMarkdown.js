@@ -46,11 +46,16 @@ ${renderLicenseBadge(data.license)}
 
 ${data.description}
 
+## Features
+
+${data.features}
+
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [Tests](#tests)
+* [Credits](#credits)
 * [Questions](#questions)
 ${data.license !== 'None' ? '* [License](#license)' : ''}
 
@@ -70,6 +75,10 @@ ${data.contributing}
 
 ${data.tests}
 
+## Credits
+
+${data.credits}
+
 ${renderLicenseSection(data.license)}
 
 ## Questions
@@ -77,3 +86,4 @@ ${renderLicenseSection(data.license)}
 If you have any questions, please feel free to contact me at [${data.email}](mailto:${data.email}). You can also find more of my work on [GitHub](https://github.com/${data.github}).
   `;
 }
+
