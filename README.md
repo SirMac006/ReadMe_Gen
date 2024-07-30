@@ -2,7 +2,7 @@
 
 ## Description
 
-The **README.md Generator** is a Node.js application that automates the creation of `README.md` files for GitHub projects. This tool simplifies the process of generating well-structured project documentation by prompting users for key details such as project title, description, installation instructions, usage guidelines, and license information.**Automates Documentation **Ensures Consistency **Streamlines Development**** :** : By asking users for essential project details, it generates a fully formatted `README.md` file in Markdown format. Provides a standardized format for README files, saving time and reducing errors compared to manual creation.Ideal for developers who want to enhance their project documentation quickly and efficiently. Often, developers spend valuable time writing and structuring documentation, which can be error-prone and inconsistent. This generator automates the process, allowing developers to focus more on coding and less on documentation formatting.
+The **README.md Generator** is a Node.js application that automates the creation of `README.md` files for GitHub projects. This tool simplifies the process of generating well-structured project documentation by prompting users for key details such as project title, description, installation instructions, usage guidelines, and license information. By asking users for essential project details, it generates a fully formatted `README.md` file in Markdown format.Often, developers spend valuable time writing and structuring documentation, which can be error-prone and inconsistent. This generator automates the process, allowing developers to focus more on coding and less on documentation formatting.This tool automates documentation, ensures consistency, and streamlines development.
 
 ## Table of Contents
 
@@ -50,3 +50,5 @@ To use the README Generator, follow these steps:
    Feel free to modify the `README.md` file manually if you need to make additional changes or updates.
 
 ## Preview
+
+![1722326340057](image/README/1722326340057.png)
